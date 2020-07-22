@@ -40,8 +40,8 @@ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 
 ### Solution
-#### 1- open files delete ros catkin_ws,catkin_ws and workspace.
-### 2- open terminal and write 
+#### 1- open files delete ros catkin_ws , catkin_ws and workspace.
+#### 2- open terminal and write 
 ---
 
 gedit ~/.bashrc
@@ -58,4 +58,7 @@ export TURTLEBOT3_MODEL=burger
 
 ---
 ### 4-[ create workspace ](http://wiki.ros.org/catkin/Tutorials/create_a_workspace) after finish go back repeat the previous steps
+
+## to more details
+* [here](https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/#gazebo)
 
